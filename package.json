@@ -2,16 +2,24 @@
   "name": "tec-integracao-de-sistemas",
   "version": "1.0.0",
   "description": "",
+  "keywords": [],
+  "homepage": "https://github.com/ArthurAv0/Tec-Integracao-de-Sist.#readme",
+  "bugs": {
+    "url": "https://github.com/ArthurAv0/Tec-Integracao-de-Sist./issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArthurAv0/Tec-Integracao-de-Sist..git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "type": "commonjs",
   "dependencies": {
-    "amqplib": "^1.0.3",
+    "amqplib": "^1.0.5",
     "cors": "^2.8.6",
     "dotenv": "^17.4.2",
     "express": "^5.2.1"
